@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculation Store</string>
+    <string name="todo">TODO</string>
+    <string name="basic_calculator">Basic Calculator</string>
+    <string name="distance_calculator">Distance Calculator</string>
+    <string name="_0">0</string>
+    <string name="edittext">0</string>
+    <string name="division">DIVISION</string>
+    <string name="multiplication">MULTIPLICATION</string>
+    <string name="power">POWER</string>
+    <string name="subtraction">SUBTRACTION</string>
+    <string name="addition">Addition</string>
+    <string name="clear">Clear</string>
+    <string name="result">0</string>
+    <string name="textview">text</string>
+    <string name="developer_info">developer_info</string>
+    <string name="laxmankoirala_gmail_com">laxmankoirala_gmail_com</string>
+    <string name="convert_km_to_miles">Convert KM to Miles</string>
+    <string name="convert_miles_to_km">Convert Miles to KM</string>
+    <string name="please_input_km">Please input KM:</string>
+    <string name="j">0.0</string>
+    <string name="k">0.0</string>
+    <string name="clearok">clear</string>
+    <string name="ok">Calculate</string>
+    <string name="result3">Result:</string>
+    <string name="please_input_mi">please input MI</string>
+
+</resources>
